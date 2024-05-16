@@ -24,7 +24,7 @@ Pre- and post-purchase product questions was accessed on 15/05/2024 from https:/
 ## Conclusions
 
 
-![Dashboard](/images/Amazon_Dashboard.jpg "Dashboard")
+![Dashboard](/Images/Amazon_Dashboard.jpg "Dashboard")
 
 ## Challenges
 
