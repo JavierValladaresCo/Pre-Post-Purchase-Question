@@ -1,5 +1,8 @@
 # Data Visualization Pre & Post Purchase Questions.
 
+
+The purpose of this project is to present significant information regarding product questions from 2019-2020, one per line. MySQL was utilized for preprocessing the data, besides for calculating essential insights through structured queries. Finally, a dashboard and graphs were constructed in Power BI from the constructed table derived from the dataset.
+
 Pre- and post-purchase product questions was accessed on 15/05/2024 from https://registry.opendata.aws/pre-post-purchase-questions 
 
 ![Amazon](/Images/Amazon_logo.jpg "Amazon Logo")
@@ -22,6 +25,11 @@ Pre- and post-purchase product questions was accessed on 15/05/2024 from https:/
 - Data exploration/descriptive statistics
 
 ## Conclusions
+
+
+In conclusion, we can observe that there is a higher number of pre-purchase-questions compared to post-purchase-questions. This slight 5% difference can be explained by the fact that it's not necessary to purchase the product to ask a question.
+
+On the other hand, we can see that the most repeated words in the questions are "made", "return", "policy", "size", "come", "warranty", "long", and "product". Firstly, words like "made", "come", "long", "product", and "size" are directly related to the product itself, as they are associated with questions about the product's origin, included items, and its physical attributes. Secondly, words like "policy," "warranty," and "return" are related to users seeking solutions due to issues with their products, whether it be regarding shipping, defective products, or unexpected products.
 
 ![Dashboard](/Images/Amazon_Dashboard.jpg "Dashboard")
 
