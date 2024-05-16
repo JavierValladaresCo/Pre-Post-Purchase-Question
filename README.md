@@ -23,10 +23,8 @@ Pre- and post-purchase product questions was accessed on 15/05/2024 from https:/
 
 ## Conclusions
 
-xfun::embed_file("Amazon_Dashboard.pdf")
 
-
-![Confussion Matrix](/images/Confussion Matrix.png "Confussion Matrix")
+![Dashboard](/images/Amazon_Dashboard.jpg "Dashboard")
 
 ## Challenges
 
