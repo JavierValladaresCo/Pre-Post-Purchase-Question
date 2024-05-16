@@ -23,6 +23,9 @@ Pre- and post-purchase product questions was accessed on 15/05/2024 from https:/
 
 ## Conclusions
 
+![Dashboard](/Images/Pre-Purchase-Question-Relative-Position.png "Pre Relative Position")
+![Dashboard](/Images/Post-Purchase-Question-Relative-Position.png "Post Relative Position")
+
 
 ![Dashboard](/Images/Amazon_Dashboard.jpg "Dashboard")
 
