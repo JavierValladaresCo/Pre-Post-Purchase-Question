@@ -1,20 +1,21 @@
-# Data Visualization related to vehicle permit revenues of municipality of Cochamó.
+# Data Visualization Pre & Post Purchase Questions.
 
-The purpose of this project is to present important data visualizations of revenue of municipality of Cochamó, in order to observe the evolution of the municipality over time. The data used was obtained from [datos.gob](https://datos.gob.cl/).
+Pre- and post-purchase product questions was accessed on DATE from https://registry.opendata.aws/pre-post-purchase-questions 
 
-![Municipalidad de Cochamo](/Images/escudocochamo-1.png "Municipalidad de Cochamo")
+![Amazon](/Images/Amazon_logo.jpg "Amazon Logo")
 
 
 ## Methods Used
 
  - Data Visualization 
+ - Data Preprocessing 
 
 
 ## Technologies
 
 - Power BI
 - Power Query
-- Excel
+- MySQL
 
 
 ## Needs of this project
