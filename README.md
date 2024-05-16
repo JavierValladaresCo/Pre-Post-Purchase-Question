@@ -1,6 +1,6 @@
 # Data Visualization Pre & Post Purchase Questions.
 
-Pre- and post-purchase product questions was accessed on DATE from https://registry.opendata.aws/pre-post-purchase-questions 
+Pre- and post-purchase product questions was accessed on 15/05/2024 from https://registry.opendata.aws/pre-post-purchase-questions 
 
 ![Amazon](/Images/Amazon_logo.jpg "Amazon Logo")
 
@@ -8,8 +8,6 @@ Pre- and post-purchase product questions was accessed on DATE from https://regis
 ## Methods Used
 
  - Data Visualization 
- - Data Preprocessing 
-
 
 ## Technologies
 
@@ -25,7 +23,7 @@ Pre- and post-purchase product questions was accessed on DATE from https://regis
 
 ## Conclusions
 
-xfun::embed_file("Project.pdf")
+xfun::embed_file("Amazon_Dashboard.pdf")
 
 
 ![Confussion Matrix](/images/Confussion Matrix.png "Confussion Matrix")
